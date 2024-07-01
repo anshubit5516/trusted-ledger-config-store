@@ -34,5 +34,24 @@
     "buildVersion": "0.0.0-1020", 
     "semver": "0.0.0",
     "dateCreated": "2024-06-24T20:25:59Z"
-  }
+  },
+  {
+ "mrEnclave": "872a1495b28725c512500b571264036dc33a7507c7b71181f9c3b24e98a31d07",
+ "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
+ "isvProdId": "0",
+ "isvSvn": "0",
+  "buildVersion": "0.0.0-1021", 
+  "semver": "0.0.0",
+  "dateCreated": "2024-06-28T20:25:59Z"
+ 
+},
+  {
+  "mrEnclave": "9db63db80080c86c13aeea7ef9d12684dc87c0d13ae546bef69e3d1a861c05c2",
+  "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
+  "isvProdId": "0",
+  "isvSvn": "0",
+  "buildVersion": "0.0.0-1021", 
+  "semver": "0.0.0",
+   "dateCreated": "2024-06-28T20:25:59Z"
+}
 ]
