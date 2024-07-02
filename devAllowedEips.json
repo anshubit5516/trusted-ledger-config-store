@@ -73,5 +73,15 @@
     "semver": "0.0.0",
     "dateCreated": "2024-06-28T20:25:59Z"
 
+},
+  {
+    "mrEnclave": "ad017594db5b40a3ac7b6f86721717fa46e44f4d538645549acd1bcb770d2a11",
+    "mrSigner": "df0668e21ddbf7257cdf8fa40d07b5b445d3f90c70ab30a50e3d8b78e537d5e0",
+    "isvProdId": "0000",
+    "isvSvn": "0000",
+    "buildVersion": "0.0.0-1023",
+    "semver": "0.0.0",
+    "dateCreated": "2024-06-28T20:25:59Z"
+
   }
 ]
