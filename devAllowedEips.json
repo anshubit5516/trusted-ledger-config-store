@@ -139,5 +139,14 @@
   "buildVersion": "0.0.0-627-smoke",
   "semver": "0.0.0",
   "dateCreated": "2024-06-28T20:25:59Z"
+},
+  {
+  "mrEnclave": "ceef5f5e413329b1ddc9ebd54bfafebbda567b392adf1a31627ab0cf233e52e1",
+  "mrSigner": "a8a5cecd7d0923396c15d2ef003aafadcf27fdd4d5da0cdf05a6cdabd8a8d02a",
+  "isvProdId": "0000",
+  "isvSvn": "0000",
+  "buildVersion": "0.0.0-627-smoke",
+  "semver": "0.0.0",
+  "dateCreated": "2024-06-28T20:25:59Z"
 }
 ]
